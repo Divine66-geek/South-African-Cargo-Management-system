@@ -1,6 +1,6 @@
 # SACMS demo (simple version
 
-South African cargo management businesses struggle with capturing proof of how package conditions are transported from area to area so this system helps them easy identify on whether the package was transported damaged or did it get damaged during transit, by allowing workers and clients to upload the picyure of the condition of the parcel before being shiped and how it arrived to the destination.
+South African cargo management businesses struggle with capturing proof of how package conditions are transported from area to area so this system helps them easy identify on whether the package was transported damaged or did it get damaged during transit, by allowing workers and clients to upload the picture of the condition of the parcel before being shiped and how it arrived to the destination.
 
 This is a:
     A clickable prototype with sample data stored in the browser (localStorage). No backend or database.
